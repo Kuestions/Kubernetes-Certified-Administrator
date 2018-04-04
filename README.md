@@ -100,6 +100,7 @@ $ kubectl get svc  -o wide --show-labels --all-namespaces
 * Understand service networking
   * youtube: [Life of a Packet [I] - Michael Rubin, Google](https://www.youtube.com/watch?v=0Omvgd7Hg1I)
 * [Deploy and configure network load balancer](https://kubernetes.io/docs/tasks/access-application-cluster/create-external-load-balancer/)
+* [Good Overview of Ingress vs Services](http://blog.infracloud.io/deep-dive-ingress-kubernetes/)
 * [Know how to use Ingress rules](https://kubernetes.io/docs/concepts/services-networking/ingress/)
 * [Know how to configure and use the cluster DNS](https://kubernetes.io/docs/concepts/services-networking/dns-pod-service/)
 * [Understand CNI](https://github.com/containernetworking/cni)
